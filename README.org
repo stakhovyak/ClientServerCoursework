@@ -1,0 +1,13 @@
+
+* A simple client server app in Java.
+the current development is in the branch 'alternative'
+
+
+** Concepts
+- The client's data is not stored in server.
+
+** The problems
+1. Add error handling wrapper
+2. Add quit option
+3. Requires robust testing
+4. How to add logging in client, who left the chat, who entered the chat etc.
